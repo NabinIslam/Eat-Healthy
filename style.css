@@ -2,6 +2,7 @@
   font-family: "Poppins", sans-serif;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 /* hero section */
@@ -229,7 +230,7 @@ footer h3 {
   color: #fff;
 }
 
-footer h3 .eat_word{
+footer h3 .eat_word {
   background: linear-gradient(88.33deg, #fba24f -7.64%, #ff1e1e 145.94%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
